@@ -1,4 +1,3 @@
-*://*.try2explore.com/*
 *://*.16892.net/*
 *://*.1r1g.com/*
 *://*.55276.net/*
@@ -271,6 +270,7 @@
 *://*.tipsforall.xyz/*
 *://*.titanwolf.org/*
 *://*.tousu.in/*
+*://*.try2explore.com/*
 *://*.try2explore.com/*
 *://*.tutorialmore.com/*
 *://*.ubuntu.buildwebhost.com/*
